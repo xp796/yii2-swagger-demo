@@ -15,7 +15,7 @@ namespace app\apis\swagger;
  * )
  *
  * @SWG\Tag(
- *   name="net269",
+ *   name="yii2-swagger-demo",
  *   description="接口相关文档",
  *   @SWG\ExternalDocumentation(
  *     description="Find out more about our store",
